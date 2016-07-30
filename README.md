@@ -2,7 +2,7 @@
 
 ## Exercise solutions
 
-* [Section 1 - Logic](https://github.com/Priebe109/Mathematical-Proofs/blob/master/Mathematical%20Proofs%20-%20Chapter%201.pdf)
+* [Chapter 1 - Logic](https://github.com/Priebe109/Mathematical-Proofs/blob/master/Mathematical%20Proofs%20-%20Chapter%201.pdf)
 
 ## Links
 

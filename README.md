@@ -2,8 +2,9 @@
 
 ## Exercise solutions
 
-* [Chapter 1 - Logic](https://github.com/Priebe109/Mathematical-Proofs/blob/master/Mathematical%20Proofs%20-%20Chapter%201.pdf)
-* [Chapter 2 - Sets](https://github.com/Priebe109/Mathematical-Proofs/blob/master/Mathematical%20Proofs%20-%20Chapter%202.pdf)
+* Chapter 1 - Communicating Mathematics
+* [Chapter 2 - Logic](https://github.com/Priebe109/Mathematical-Proofs/blob/master/Mathematical%20Proofs%20-%20Chapter%202.pdf)
+* [Chapter 3 - Sets](https://github.com/Priebe109/Mathematical-Proofs/blob/master/Mathematical%20Proofs%20-%20Chapter%203.pdf)
 
 ## Links
 
